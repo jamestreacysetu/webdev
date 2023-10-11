@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+      <meta charset = 'utf-8'>
+      <title>James Treacy - Home</title>
+       
+ <link rel=stylesheet href="Css/style.css">
+    
+   </head>
+    
+ <body>  
+    <header>
+        <h1> <a href ="index.html"><span>James Treacy</span></a> </h1>
+     </header>
+       <hr class="top">
+	  <h2>HTML Labs</h2>
+     
+    <hr>
+       
+<dl class="left">
+    <dt> Week 1 </dt>
+        <dd> <a href = "Week1/lab1/Index.html">Lab 1</a></dd>
+        <dd><a href = "Week1/lab2/index.html">Lab 2</a></dd>
+        <dd><a href = "Week1/lab3/index.html">Lab 3</a></dd>
+        <dd><a href = "Week1/lab4/index.html">Lab 4</a></dd>
+</dl>
+     
+<dl class="left">
+    <dt> Week 2 </dt>
+        <dd><a href = "Week2/lab01/index.html">Lab 1</a></dd>
+        <dd><a href = "Week2/lab02/cv.html">Lab 2</a></dd>
+        <dd><a href = "Week2/lab03/index.html">Lab 3</a></dd>
+        <dd><a href = "Week2/lab04/index.html">Lab 4</a></dd>
+</dl>
+     
+<dl class="left">
+    <dt> Week 3 </dt>
+        <dd><a href = "Week3/lab01/index.html">Lab 1</a></dd>
+        <dd><a href = "Week3/lab02/index.html">Lab 2</a></dd>
+        <dd><a href = "Week3/lab03/cv.html">Lab 3</a></dd>
+</dl>
+     
+<dl class="midl">
+    <dt> Week 4 </dt>
+        <dd><a href = "Week4/lab01/exercise1.html">Lab 1 - Ex. 1</a></dd>
+        <dd><a href = "Week4/lab01/exercise2.html">Lab 1 Ex. 2</a></dd>
+        <dd><a href = "Week4/lab02/index.html">Lab 2</a></dd>
+        <dd><a href = "Week4/lab03/index.html">Lab 3</a></dd>
+</dl>
+     
+<dl class="midl">
+    <dt> Week 5 </dt>
+        <dd><a href = "index.html">Lab 1</a></dd>
+        <dd><a href = "index.html">Lab 2</a></dd>
+        <dd><a href = "index.html">Lab 3</a></dd>
+        <dd><a href = "index.html">Lab 4</a></dd>
+</dl>
+     
+<dl class="midl">
+    <dt> Week 6 </dt>
+        <dd><a href = "index.html">Lab 1</a></dd>
+        <dd><a href = "index.html">Lab 2</a></dd>
+        <dd><a href = "index.html">Lab 3</a></dd>
+        <dd><a href = "index.html">Lab 4</a></dd>
+</dl>
+     
+<dl class="midr">
+    <dt> Week 7 </dt>
+        <dd><a href = "index.html">Lab 1</a></dd>
+        <dd><a href = "index.html">Lab 2</a></dd>
+        <dd><a href = "index.html">Lab 3</a></dd>
+        <dd><a href = "index.html">Lab 4</a></dd>
+</dl>
+ 
+<dl class="midr">
+    <dt> Week 8 </dt>
+        <dd><a href = "index.html">Lab 1</a></dd>
+        <dd><a href = "index.html">Lab 2</a></dd>
+        <dd><a href = "index.html">Lab 3</a></dd>
+        <dd><a href = "index.html">Lab 4</a></dd>
+</dl>
+  
+<dl class="midr">
+    <dt> Week 9 </dt>
+        <dd><a href = "index.html">Lab 1</a></dd>
+        <dd><a href = "index.html">Lab 2</a></dd>
+        <dd><a href = "index.html">Lab 3</a></dd>
+        <dd><a href = "index.html">Lab 4</a></dd>
+</dl>
+  
+<dl class="right">
+    <dt> Week 10 </dt>
+        <dd><a href = "index.html">Lab 1</a></dd>
+        <dd><a href = "index.html">Lab 2</a></dd>
+        <dd><a href = "index.html">Lab 3</a></dd>
+        <dd><a href = "index.html">Lab 4</a></dd>
+</dl>
+  
+<dl class="right">
+    <dt> Week 11 </dt>
+        <dd><a href = "index.html">Lab 1</a></dd>
+        <dd><a href = "index.html">Lab 2</a></dd>
+        <dd><a href = "index.html">Lab 3</a></dd>
+        <dd><a href = "index.html">Lab 4</a></dd>
+</dl>
+  
+<dl class="right">
+    <dt> Assignments </dt>
+        <dd><a href = "index.html">Assignment 1 a</a></dd>
+        <dd><a href = "index.html">Assignment 1 b </a></dd>
+</dl>
+    <hr class="bottom"> 
+ <footer>  
+        <br> <a href ="https://elgoog.im/gravity/">&#169; 2023 James Treacy</a> </footer>
+</body>       
+</html>
