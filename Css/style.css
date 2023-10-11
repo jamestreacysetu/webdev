@@ -1,0 +1,125 @@
+header{
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    background-color:#0e0f0e;
+    text-align: center;
+}
+span{ font-size: 33px;
+    text-decoration: none;
+}
+h2{
+    position: fixed;
+    top: 69px;
+    text-indent: 10px;
+    font-size: 27px;
+}
+
+body {
+    background-color:#252926;
+    color:#ccaa10;
+    max-height: 700px;
+    font-family: optima, sans-serif;
+         }
+
+.left {
+    position: relative;
+    top: 130px;
+    left: 0%;
+    background-color: none;
+    list-style-type:none;
+    width: 25%;
+         }
+.midl {
+    position: relative;
+    top: -355px;
+    left: 25%;
+    background-color: none;
+    list-style-type:none;
+    width: 25%;
+         }
+.midr {
+    position: relative;
+    top: -870px;
+    left: 50%;
+    list-style-type:none;
+    width: 25%;
+         }
+.right {
+    position: relative;
+    top: -1384px;
+    left: 75%;
+    list-style-type:none;
+    width: 25%;
+         }
+dt, dd {
+        padding:.2em;
+         }
+dt{
+    font-size: 23px;
+}
+dd{
+    font-size: 17px
+}
+a{
+    font-weight: bold;
+}
+a:link{
+    text-decoration: none;
+    color: #ccaa10;
+    font-style: normal;
+    font-size: 20px;
+}
+a:visited{
+    color: #ccaa10;
+}
+a:hover{
+    text-decoration: none;
+    color: white; 
+}
+a:active{
+    color: orange;
+}
+hr{
+    position: fixed;
+    margin-top: 115px;
+    margin-left: -7px;
+    width: 101%;
+    border-width: 0px;
+    color: black;
+    background-color: #ccaa10;
+    height: 5px;
+}
+.top{
+    position: fixed;
+    margin-top: 60px;
+    margin-left: -7px;
+    width: 101%;
+    border-width: 0px;
+    color: black;
+    background-color: #ccaa10;
+    height: 5px;
+}
+.bottom{
+    position: fixed;
+    bottom: 57px;
+    margin-left: -7px;
+    width: 101%;
+    border-width: 0px;
+    color: black;
+    background-color: #ccaa10;
+    height: 5px;
+}
+footer{
+   
+    font-size: 20px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #0e0f0e;
+    min-height: 65px;
+    border-width: 0px;
+     text-align: center;
+}
